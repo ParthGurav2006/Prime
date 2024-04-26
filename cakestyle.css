@@ -1,0 +1,249 @@
+
+ 
+.stick {
+    border: 0.1px solid burlywood;
+    color: chocolate;
+    height: 5vh;
+    padding-top: 5px;
+    margin-top: -7.5px;
+    margin-left: -10px;
+    margin-right: -10px;
+    display: flex;
+    justify-content: center;
+    position: sticky;
+}
+
+.logo1 {
+    margin-left: -8px;
+    border: 0.3px solid burlywood;
+    background-color: powderblue;
+    margin-right: -10px;
+}
+
+nav ul {
+    display: flex;
+    float: right;
+    margin-top: -55px;
+    font-size: 25px;
+}
+
+li {
+    list-style-type: none;
+    padding-inline: 10px;
+}
+
+button {
+    background-color: palevioletred;
+    font-size: 20px;
+    border-radius: 5vw;
+    height: 30px;
+    padding-bottom: -90px;
+}
+
+.pic {
+    border: 1px solid burlywood;
+    height: 106.5vh;
+    background-color: coral;
+    margin-left: -10px;
+    margin-right: -10px;
+}
+
+.txt {
+    border: 1px solid burlywood;
+    height: 150vh;
+    background-color: #F0F8FF;
+    margin-left: -10px;
+    margin-right: -10px;
+}
+
+.subtxt {
+    border: 1px solid #F0F8FF;
+    width: 40vw;
+    margin-left: 30vw;
+    color: cadetblue;
+}
+
+.sub1 {
+    border: 1px solid #F0F8FF;
+    width: 20vw;
+    height: fit-content;
+    margin-left: 1050px;
+    color: chocolate;
+}
+
+.sub4 {
+    border: 1px solid #F0F8FF;
+    width: 20vw;
+    height: fit-content;
+    margin-left: 1050px;
+    color: chocolate;
+
+}
+
+.subimgg {
+    margin-top: -300px;
+    margin-left: 450px;
+    position: relative;
+    mix-blend-mode: multiply;
+}
+
+.sub2 {
+    border: 1px solid #F0F8FF;
+    width: 20vw;
+    height: fit-content;
+    margin-right: 1050px;
+    margin-top: -200px;
+    color: chocolate;
+
+}
+
+.sub3 {
+    border: 1px solid #F0F8FF;
+    width: 20vw;
+    height: fit-content;
+    margin-right: 1050px;
+    margin-top: -550px;
+    color: chocolate;
+
+}
+.prodsub{
+    border: 2pxsolid #acfac1;
+    height: fit-content;
+    margin-top: -22px;
+    margin-bottom: -22px;
+    width: 100vw;
+    background-color: #acfac1;
+    margin-left: -10px;
+    margin-right: -10px;
+    
+}
+.products {
+    border: 1px solid #acfac1;
+    height: 80vh;
+    background-color: #acfac1;
+    margin-left: -10px;
+    margin-right: -10px;
+    display: grid;
+    grid-template-columns: repeat(4, 0fr);
+     gap: 60px;
+    justify-content: center;
+    align-content: center;
+}
+.ops{
+    border: 2px solid orange;
+    height: 250px;
+    width: 250px;
+    background-color: orange;
+    margin-top: 50px;
+}
+.bb{
+    height: 50px;
+    width: 150px;
+    margin-left: 200%;
+}
+.p1 {
+    border: 1px solid burlywood;
+    height: 80vh;
+    background-color: khaki;
+    margin-left: -10px;
+    margin-right: -10px;
+}
+
+.pk {
+    border: 2px solid khaki;
+    width: 25%;
+    height: 40vh;
+    margin-left: 60px;
+    margin-top: 25px;
+}
+
+.one {
+    float: right;
+    margin-top: -250px;
+    margin-right: 100px;
+    border-radius: 5%;
+}
+
+.k {
+    height: 50px;
+    width: 150px;
+    margin-top: 60px;
+    background-color: chocolate;
+    margin-left: 50%;
+}
+
+.p2 {
+    border: 1px solid burlywood;
+    height: 80vh;
+    background-color: mediumorchid;
+    margin-left: -10px;
+    margin-right: -10px;
+    display: flex;
+}
+
+.tt3 {
+    border: 0px solid red;
+    margin-left: 60px;
+    margin-top: 15px;
+    height: 30px;
+}
+
+.tt {
+    border: 2px solid mediumorchid;
+    width: 25%;
+    height: 40vh;
+    margin-left: 250px;
+    margin-top: 60px;
+}
+
+.t {
+    margin-top: 50px;
+    height: 50px;
+    width: 150px;
+    background-color: darkseagreen;
+}
+
+.p3 {
+    border: 1px solid burlywood;
+    height: 140vh;
+    background-color: #b6fac6;
+    margin-left: -10px;
+    margin-right: -10px;
+    display: grid;
+    grid-template-columns: repeat(4, 0fr);
+     gap: 60px;
+    justify-content: center;
+    align-content: center;
+}
+
+.bs {
+    border: 2px solid orange;
+    height: 250px;
+    width: 250px;
+    background-color: orange;
+}
+
+.p4 {
+    border: 1px solid burlywood;
+    height: 80vh;
+    background-color: #fad4d2;
+    margin-left: -10px;
+    margin-right: -10px;
+}
+.lp{
+    font-size: 25px;
+    margin-top: 75px;
+}
+.sp{
+    
+}
+
+
+.end {
+    border: 1px solid burlywood;
+    height: 80vh;
+    background-color: #b0caff;
+    margin-left: -10px;
+    margin-right: -10px;
+}
+
